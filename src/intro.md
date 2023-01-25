@@ -1,13 +1,10 @@
 # Anemo 简介 {#Anemo}
 
-[![npm-version](https://img.shields.io/npm/v/@anemo/core?color=527dec&label=%40anemo%2Fcore&style=flat-square)](https://npm.im/package/@anemo/core)
+![node-current](https://img.shields.io/node/v/anemo)
 
-[![npm-version](https://img.shields.io/npm/v/anemo?color=527dec&label=anemo%20(cli)&style=flat-square)](https://npm.im/package/anemo)
-[![dm](https://shields.io/npm/dm/anemo?label=downloads&style=flat-square)](https://npm.im/package/anemo)
-
-[![node-engine](https://img.shields.io/node/v/@anemo/core?style=flat-square&logo=Node.js&logoColor=ffffff&color=527dec)](https://nodejs.org)
-[![discord](https://img.shields.io/badge/chat-on%20discord-527dec?logo=discord&style=flat-square&logoColor=ffffff)](https://discord.gg/RegGQD3Fu6)
-[![qq-group](https://img.shields.io/badge/QQ%20%E7%BE%A4-614617552-527dec?logo=TencentQQ&style=flat-square&logoColor=ffffff)](https://jq.qq.com/?_wv=1027&k=iK97X7NS)
+![npm type definitions](https://img.shields.io/npm/types/anemo)
+![npm](https://img.shields.io/npm/dm/anemo)
+[![qq](https://img.shields.io/badge/qq-3549916684-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=NzKckuWx5MCfVGej_4_UjNCBt1q9XvMu&authKey=AWjoKXeDlbqTf4MmV9MlISbWrgGSHvn7jVIszVFfoS6BYI73+7JZUccmXLcPz36Q&noverify=0)
 
 ::: warning 请注意
 框架仍处于**测试阶段**, 可能会有潜在 `bug`, 框架文档也正在完善中, 敬请期待。
